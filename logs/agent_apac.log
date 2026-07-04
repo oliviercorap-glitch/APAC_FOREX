@@ -1,0 +1,163 @@
+2026-07-04 05:05:36,427 [INFO] ============================================================
+2026-07-04 05:05:36,427 [INFO] Starting APAC GSE Intelligence Agent v2.0
+2026-07-04 05:05:36,427 [INFO] ============================================================
+2026-07-04 05:05:36,427 [INFO] Collecting from: International Airport Review - News
+2026-07-04 05:05:37,047 [INFO]   Scraped International Airport Review - News: 30 articles
+2026-07-04 05:05:38,548 [INFO] Collecting from: Airport Technology - News
+2026-07-04 05:05:38,841 [INFO]   Scraped Airport Technology - News: 30 articles
+2026-07-04 05:05:40,342 [INFO] Collecting from: Future Airport
+2026-07-04 05:05:40,524 [WARNING] Attempt 1/3 failed for https://www.futureairport.com/: 403 Client Error: Forbidden for url: https://www.futureairport.com/
+2026-07-04 05:05:41,594 [WARNING] Attempt 2/3 failed for https://www.futureairport.com/: 403 Client Error: Forbidden for url: https://www.futureairport.com/
+2026-07-04 05:05:43,678 [WARNING] Attempt 3/3 failed for https://www.futureairport.com/: 403 Client Error: Forbidden for url: https://www.futureairport.com/
+2026-07-04 05:05:49,179 [INFO] Collecting from: Airport World - Asia Pacific
+2026-07-04 05:05:50,997 [WARNING] Attempt 1/3 failed for https://www.airport-world.com/category/regions/asia-pacific/: 404 Client Error: Not Found for url: https://airport-world.com/category/regions/asia-pacific/
+2026-07-04 05:05:53,773 [WARNING] Attempt 2/3 failed for https://www.airport-world.com/category/regions/asia-pacific/: 404 Client Error: Not Found for url: https://airport-world.com/category/regions/asia-pacific/
+2026-07-04 05:05:57,382 [WARNING] Attempt 3/3 failed for https://www.airport-world.com/category/regions/asia-pacific/: 404 Client Error: Not Found for url: https://airport-world.com/category/regions/asia-pacific/
+2026-07-04 05:06:02,884 [INFO] Collecting from: Ground Handling International
+2026-07-04 05:06:03,395 [INFO]   Scraped Ground Handling International: 10 articles
+2026-07-04 05:06:04,896 [INFO] Collecting from: Aviation Pros - Ground Handling
+2026-07-04 05:06:05,298 [INFO]   Scraped Aviation Pros - Ground Handling: 28 articles
+2026-07-04 05:06:06,799 [INFO] Collecting from: Simple Flying - Asia
+2026-07-04 05:06:07,162 [INFO]   Scraped Simple Flying - Asia: 30 articles
+2026-07-04 05:06:08,664 [INFO] Collecting from: Aviation Week - Asia
+2026-07-04 05:06:09,462 [WARNING] Attempt 1/3 failed for https://aviationweek.com/regions/asia: 404 Client Error: Not Found for url: https://aviationweek.com/regions/asia
+2026-07-04 05:06:10,671 [WARNING] Attempt 2/3 failed for https://aviationweek.com/regions/asia: 404 Client Error: Not Found for url: https://aviationweek.com/regions/asia
+2026-07-04 05:06:12,892 [WARNING] Attempt 3/3 failed for https://aviationweek.com/regions/asia: 404 Client Error: Not Found for url: https://aviationweek.com/regions/asia
+2026-07-04 05:06:18,394 [INFO] Collecting from: Flight Global - Asia
+2026-07-04 05:06:18,532 [WARNING] Attempt 1/3 failed for https://www.flightglobal.com/asia/: 403 Client Error: Forbidden for url: https://www.flightglobal.com/asia/
+2026-07-04 05:06:19,605 [WARNING] Attempt 2/3 failed for https://www.flightglobal.com/asia/: 403 Client Error: Forbidden for url: https://www.flightglobal.com/asia/
+2026-07-04 05:06:21,673 [WARNING] Attempt 3/3 failed for https://www.flightglobal.com/asia/: 403 Client Error: Forbidden for url: https://www.flightglobal.com/asia/
+2026-07-04 05:06:27,174 [INFO] Collecting from: Reuters - Aerospace & Defense
+2026-07-04 05:06:27,399 [WARNING] Attempt 1/3 failed for https://www.reuters.com/business/aerospace-defense/: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/
+2026-07-04 05:06:28,507 [WARNING] Attempt 2/3 failed for https://www.reuters.com/business/aerospace-defense/: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/
+2026-07-04 05:06:30,590 [WARNING] Attempt 3/3 failed for https://www.reuters.com/business/aerospace-defense/: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/
+2026-07-04 05:06:36,092 [INFO] Total raw articles collected: 128
+2026-07-04 05:06:38,012 [INFO]   Tavily 'Weihai Guangtai export Southeast Asia airport...': 5 results
+2026-07-04 05:06:39,534 [INFO]   Tavily '威海广泰 海外市场 出口 2026...': 5 results
+2026-07-04 05:06:40,762 [INFO]   Tavily 'CIMC Tianda international ground support equi...': 5 results
+2026-07-04 05:06:42,122 [INFO]   Tavily 'JBT Corporation GSE Asia Pacific contract 202...': 5 results
+2026-07-04 05:06:43,681 [INFO]   Tavily 'Oshkosh AeroTech Asia Pacific airport 2026...': 5 results
+2026-07-04 05:06:45,191 [INFO]   Tavily 'Southeast Asia airport ground support equipme...': 5 results
+2026-07-04 05:06:46,796 [INFO]   Tavily 'Japan Korea airport GSE procurement 2026...': 5 results
+2026-07-04 05:06:49,147 [INFO]   Tavily 'Swissport Menzies dnata Asia Pacific contract...': 5 results
+2026-07-04 05:06:49,647 [INFO] Tavily total: 40 articles found
+2026-07-04 05:06:49,649 [INFO] Total after Tavily: 168 articles
+2026-07-04 05:06:49,649 [INFO] Competitor brief: skipping (runs Mondays only)
+2026-07-04 05:06:49,649 [INFO]   KEPT [International Airport Review - News] World’s first operational AI-driven CT baggage scanner in use at Maast — matched: ['baggage']
+2026-07-04 05:06:49,650 [INFO]   KEPT [International Airport Review - News] Bristol Airport unveils concept images for maintenance repair and over — matched: ['BRI']
+2026-07-04 05:06:49,650 [INFO]   KEPT [International Airport Review - News] Gabriel Higgins — matched: ['BRI']
+2026-07-04 05:06:49,651 [INFO]   KEPT [Aviation Pros - Ground Handling] Ground Support Worldwide — matched: ['ground support']
+2026-07-04 05:06:49,651 [INFO]   KEPT [Aviation Pros - Ground Handling] Ground Support Worldwide Leaders of the Year — matched: ['ground support']
+2026-07-04 05:06:49,652 [INFO]   KEPT [Aviation Pros - Ground Handling] Western Sydney International to Launch Australia’s First Airport-Wide  — matched: ['gse']
+2026-07-04 05:06:49,652 [INFO]   KEPT [Aviation Pros - Ground Handling] Assaia ApronAI to Support Turnaround Operations at New Chitose Airport — matched: ['apron']
+2026-07-04 05:06:49,652 [INFO]   KEPT [Aviation Pros - Ground Handling] Menzies Aviation, FlyORO Partner to Expand SAF Infrastructure Across E — matched: ['Menzies Aviation']
+2026-07-04 05:06:49,652 [INFO]   KEPT [Aviation Pros - Ground Handling] Jettainer, Hangyi Partner on ULD Management Services in China — matched: ['ANA']
+2026-07-04 05:06:49,652 [INFO]   KEPT [Aviation Pros - Ground Handling] WFS Expands Partnership with GEODIS Through Brussels Handling Contract — matched: ['WFS']
+2026-07-04 05:06:49,652 [INFO]   KEPT [Aviation Pros - Ground Handling] Aviramp Supports Return of WWII Veterans to Normandy with Step-Free Bo — matched: ['ramp']
+2026-07-04 05:06:49,653 [INFO]   KEPT [Aviation Pros - Ground Handling] dnata Expands Air China Group Partnership With Air Macau Catering Cont — matched: ['Air China', 'dnata']
+2026-07-04 05:06:49,653 [INFO]   KEPT [Aviation Pros - Ground Handling] dnata Names Nabil Sultan Chief Executive Officer — matched: ['dnata']
+2026-07-04 05:06:49,654 [INFO]   KEPT [Simple Flying - Asia] Small Plane Crashes Into Beijing's Tallest Skyscraper, Raining Debris  — matched: ['BRI']
+2026-07-04 05:06:49,654 [INFO]   KEPT [Tavily Search] WEIHAI GUANGTAI AIRPORT EQUIPMENT CO LTD - Exhibitor Details — matched: ['Weihai Guangtai', 'Guangtai']
+2026-07-04 05:06:49,655 [INFO]   KEPT [Tavily Search] weihai guangtai airport equipment - Annual GHI Conference — matched: ['ground support', 'gse', 'Weihai Guangtai']
+2026-07-04 05:06:49,655 [INFO]   KEPT [Tavily Search] Weihai Guangtai Airport Equipment - INTERSCHUTZ Exhibitor 2026 — matched: ['Weihai Guangtai', 'Guangtai']
+2026-07-04 05:06:49,655 [INFO]   KEPT [Tavily Search] Weihai Guangtai Airport Equipment Co., Ltd. | LinkedIn — matched: ['ground support', 'Weihai Guangtai', 'Guangtai']
+2026-07-04 05:06:49,655 [INFO]   KEPT [Tavily Search] WEIHAI GUANGTAI AIRPORT EQUIPMENT CO LTD - Exhibitor Details — matched: ['Weihai Guangtai', 'Guangtai']
+2026-07-04 05:06:49,655 [INFO]   KEPT [Tavily Search] 亚太市场订单高速突破，威海广泰海外业务稳步进阶 — matched: ['威海广泰', '广泰']
+2026-07-04 05:06:49,655 [INFO]   KEPT [Tavily Search] 亚太市场订单高速突破，威海广泰海外业务稳步进阶 — matched: ['SATS', '威海广泰', '广泰']
+2026-07-04 05:06:49,655 [INFO]   KEPT [Tavily Search] 抢抓能源转型风口，电动化驱动威海广泰欧洲业务腾飞 - 证券时报 — matched: ['威海广泰', '广泰', '电动化']
+2026-07-04 05:06:49,656 [INFO]   KEPT [Tavily Search] 威海广泰空港设备股份有限公司 - 百度百科 — matched: ['国航', '威海广泰', '广泰']
+2026-07-04 05:06:49,656 [INFO]   KEPT [Tavily Search] 威海广泰空港设备股份有限公司 — matched: ['威海广泰', '广泰']
+2026-07-04 05:06:49,656 [INFO]   KEPT [Tavily Search] [PDF] High-end Intelligent Equipment — matched: ['CIMC']
+2026-07-04 05:06:49,656 [INFO]   KEPT [Tavily Search] Shenzhen CIMC-Tianda Airport Support 2026 Company Profile — matched: ['CIMC']
+2026-07-04 05:06:49,656 [INFO]   KEPT [Tavily Search] Shenzhen CIMC Tianda Airport Support Co., Ltd._Baiduwiki — matched: ['CIMC Tianda', 'CIMC']
+2026-07-04 05:06:49,656 [INFO]   KEPT [Tavily Search] CIMC-TianDa Supplier Profile | CAPA — matched: ['tractor', 'CIMC']
+2026-07-04 05:06:49,656 [INFO]   KEPT [Tavily Search] Passenger Boarding Bridges - CIMC-TianDa - Airport Suppliers — matched: ['tractor', 'passenger boarding bridge', 'CIMC']
+2026-07-04 05:06:49,657 [INFO]   KEPT [Tavily Search] Asia-Pacific Powered Ground Support Equipment Market Insights — matched: ['ground support', 'ANA']
+2026-07-04 05:06:49,657 [INFO]   KEPT [Tavily Search] Ground Support Equipment (GSE) Market Size, Share, Growth, 2034 — matched: ['ground support', 'gse', 'ANA']
+2026-07-04 05:06:49,657 [INFO]   KEPT [Tavily Search] Mercury GSE partners with JBT AeroTech - World Business Outlook — matched: ['ground support', 'gse', 'JBT']
+2026-07-04 05:06:49,657 [INFO]   KEPT [Tavily Search] Ground Support Equipment Market Size, Trends & Forecast, 2026 ... — matched: ['ground support', 'gse', 'ANA']
+2026-07-04 05:06:49,657 [INFO]   KEPT [Tavily Search] Mercury GSE Makes Historic Ground Support Equipment ... — matched: ['ground support', 'gse', 'Mercury GSE']
+2026-07-04 05:06:49,657 [INFO]   KEPT [Tavily Search] CES 2026 Recap: Powering the Airport of the Future — matched: ['Oshkosh AeroTech', 'Oshkosh']
+2026-07-04 05:06:49,658 [INFO]   KEPT [Tavily Search] Press Releases - Oshkosh AeroTech — matched: ['ground support', 'Oshkosh AeroTech', 'Oshkosh']
+2026-07-04 05:06:49,658 [INFO]   KEPT [Tavily Search] Oshkosh Aerotech to Showcase Intelligent Aviation Technology and ... — matched: ['Oshkosh AeroTech', 'Oshkosh', 'BRI']
+2026-07-04 05:06:49,658 [INFO]   KEPT [Tavily Search] Oshkosh AeroTech Intelligent Aviation CES 2026 - YouTube — matched: ['Oshkosh AeroTech', 'Oshkosh']
+2026-07-04 05:06:49,658 [INFO]   KEPT [Tavily Search] What to expect from Oshkosh at CES 2026 — matched: ['Oshkosh']
+2026-07-04 05:06:49,658 [INFO]   KEPT [Tavily Search] South East Asia Airports Tenders — matched: ['tender']
+2026-07-04 05:06:49,658 [INFO]   KEPT [Tavily Search] Airport Ground Support Equipment Analysis (Dataset) | OSTI.GOV — matched: ['ground support', 'ANA']
+2026-07-04 05:06:49,659 [INFO]   KEPT [Tavily Search] Global Airport Ground Support Equipment Market to Surge Beyond USD 9.4 — matched: ['ground support', 'electrification']
+2026-07-04 05:06:49,659 [INFO]   KEPT [Tavily Search] Airport Ground Support Equipment Market Forecasts to 2034 – Global Ana — matched: ['ground support', 'ANA', 'BRI']
+2026-07-04 05:06:49,659 [INFO]   KEPT [Tavily Search] Airport Ground Support Vehicle Market Size, Share, 2026-2034 — matched: ['ground support', 'ANA', 'BRI']
+2026-07-04 05:06:49,659 [INFO]   KEPT [Tavily Search] Airport Ground Support Equipment Market by Equipment Type ... — matched: ['ground support']
+2026-07-04 05:06:49,659 [INFO]   KEPT [Tavily Search] Global Airport Ground Support Equipment Market to Surge Beyond ... — matched: ['ground support', 'electrification']
+2026-07-04 05:06:49,659 [INFO]   KEPT [Tavily Search] Ground Support Equipment Market Size, Share Report 2026-2035 — matched: ['ground support', 'baggage']
+2026-07-04 05:06:49,660 [INFO]   KEPT [Tavily Search] Airport Ground Handling Service Market Size and Key Trends 2026 ... — matched: ['procurement']
+2026-07-04 05:06:49,660 [INFO]   KEPT [Tavily Search] Aircraft Ground Support Equipment Market : Global Industry Analysis .. — matched: ['ground support', 'loader', 'belt loader']
+2026-07-04 05:06:49,660 [INFO]   KEPT [Tavily Search] Swissport launches full-service operations for China Eastern Airlines  — matched: ['China Eastern', 'revenue', 'Swissport']
+2026-07-04 05:06:49,660 [INFO]   KEPT [Tavily Search] Dnata wins renewed ground handling contract — matched: ['dnata']
+2026-07-04 05:06:49,660 [INFO]   KEPT [Tavily Search] Swissport begins cargo handling for China Eastern in Australia — matched: ['China Eastern', 'Swissport']
+2026-07-04 05:06:49,660 [INFO]   KEPT [Tavily Search] Cargo Handling Archives — matched: ['China Eastern', 'Swissport']
+2026-07-04 05:06:49,661 [INFO]   KEPT [Tavily Search] Swissport International AG - Airport ground services and air cargo ... — matched: ['revenue', 'Swissport']
+2026-07-04 05:06:49,661 [INFO] Relevant articles after filtering: 54
+2026-07-04 05:06:49,661 [INFO] After prioritization: 40 Tavily, 0 competitor, 14 scraped
+2026-07-04 05:06:49,661 [INFO] Enriching up to 20 articles with body excerpts...
+2026-07-04 05:07:11,610 [WARNING] Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2026-07-04 05:07:23,551 [INFO] Enrichment complete.
+2026-07-04 05:07:23,552 [WARNING] Capped input at 50 articles (had 54).
+2026-07-04 05:07:23,583 [INFO] Sending 50 articles to DeepSeek...
+2026-07-04 05:07:24,403 [INFO] HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 05:07:50,133 [INFO] DeepSeek response: 8646 chars
+2026-07-04 05:07:50,133 [INFO] Raw DeepSeek output saved to rapports_apac/debug_raw.txt
+2026-07-04 05:07:50,135 [INFO] Parsed: 9 signals, summary=yes
+2026-07-04 05:07:50,150 [INFO] Report saved: /home/runner/work/agent_aviation_industry_APAC/agent_aviation_industry_APAC/rapports_apac/apac_veille_20260704_0507.html
+2026-07-04 05:07:50,150 [INFO] Done.
+2026-07-04 05:22:41,126 [INFO] ============================================================
+2026-07-04 05:22:41,126 [INFO] Starting APAC GSE Intelligence Agent v2.0
+2026-07-04 05:22:41,126 [INFO] ============================================================
+2026-07-04 05:22:41,127 [INFO] Collecting from: International Airport Review - News
+2026-07-04 05:22:42,174 [INFO]   Scraped International Airport Review - News: 30 articles
+2026-07-04 05:22:43,675 [INFO] Collecting from: Airport Technology - News
+2026-07-04 05:22:43,952 [INFO]   Scraped Airport Technology - News: 30 articles
+2026-07-04 05:22:45,453 [INFO] Collecting from: Future Airport
+2026-07-04 05:22:45,579 [WARNING] Attempt 1/3 failed for https://www.futureairport.com/: 403 Client Error: Forbidden for url: https://www.futureairport.com/
+2026-07-04 05:22:46,691 [WARNING] Attempt 2/3 failed for https://www.futureairport.com/: 403 Client Error: Forbidden for url: https://www.futureairport.com/
+2026-07-04 05:22:48,773 [WARNING] Attempt 3/3 failed for https://www.futureairport.com/: 403 Client Error: Forbidden for url: https://www.futureairport.com/
+2026-07-04 05:22:54,275 [INFO] Collecting from: Airport World - Asia Pacific
+2026-07-04 05:22:56,654 [WARNING] Attempt 1/3 failed for https://www.airport-world.com/category/regions/asia-pacific/: 404 Client Error: Not Found for url: https://airport-world.com/category/regions/asia-pacific/
+2026-07-04 05:22:59,674 [WARNING] Attempt 2/3 failed for https://www.airport-world.com/category/regions/asia-pacific/: 404 Client Error: Not Found for url: https://airport-world.com/category/regions/asia-pacific/
+2026-07-04 05:23:03,554 [WARNING] Attempt 3/3 failed for https://www.airport-world.com/category/regions/asia-pacific/: 404 Client Error: Not Found for url: https://airport-world.com/category/regions/asia-pacific/
+2026-07-04 05:23:09,056 [INFO] Collecting from: Ground Handling International
+2026-07-04 05:23:09,789 [INFO]   Scraped Ground Handling International: 10 articles
+2026-07-04 05:23:11,290 [INFO] Collecting from: Aviation Pros - Ground Handling
+2026-07-04 05:23:11,712 [INFO]   Scraped Aviation Pros - Ground Handling: 28 articles
+2026-07-04 05:23:13,213 [INFO] Collecting from: Simple Flying - Asia
+2026-07-04 05:23:13,640 [INFO]   Scraped Simple Flying - Asia: 30 articles
+2026-07-04 05:23:15,142 [INFO] Collecting from: Aviation Week - Asia
+2026-07-04 05:23:15,477 [WARNING] Attempt 1/3 failed for https://aviationweek.com/regions/asia: 404 Client Error: Not Found for url: https://aviationweek.com/regions/asia
+2026-07-04 05:23:16,710 [WARNING] Attempt 2/3 failed for https://aviationweek.com/regions/asia: 404 Client Error: Not Found for url: https://aviationweek.com/regions/asia
+2026-07-04 05:23:18,942 [WARNING] Attempt 3/3 failed for https://aviationweek.com/regions/asia: 404 Client Error: Not Found for url: https://aviationweek.com/regions/asia
+2026-07-04 05:23:24,444 [INFO] Collecting from: Flight Global - Asia
+2026-07-04 05:23:24,578 [WARNING] Attempt 1/3 failed for https://www.flightglobal.com/asia/: 403 Client Error: Forbidden for url: https://www.flightglobal.com/asia/
+2026-07-04 05:23:25,657 [WARNING] Attempt 2/3 failed for https://www.flightglobal.com/asia/: 403 Client Error: Forbidden for url: https://www.flightglobal.com/asia/
+2026-07-04 05:23:27,737 [WARNING] Attempt 3/3 failed for https://www.flightglobal.com/asia/: 403 Client Error: Forbidden for url: https://www.flightglobal.com/asia/
+2026-07-04 05:23:33,238 [INFO] Collecting from: Reuters - Aerospace & Defense
+2026-07-04 05:23:33,564 [WARNING] Attempt 1/3 failed for https://www.reuters.com/business/aerospace-defense/: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/
+2026-07-04 05:23:34,727 [WARNING] Attempt 2/3 failed for https://www.reuters.com/business/aerospace-defense/: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/
+2026-07-04 05:23:36,888 [WARNING] Attempt 3/3 failed for https://www.reuters.com/business/aerospace-defense/: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/
+2026-07-04 05:23:42,390 [INFO] Total raw articles collected: 128
+2026-07-04 05:23:42,641 [INFO]   Tavily 'Weihai Guangtai export Southeast Asia airport...': 5 results
+2026-07-04 05:23:43,374 [INFO]   Tavily '威海广泰 海外市场 出口 2026...': 5 results
+2026-07-04 05:23:44,094 [INFO]   Tavily 'CIMC Tianda international ground support equi...': 5 results
+2026-07-04 05:23:44,846 [INFO]   Tavily 'JBT Corporation GSE Asia Pacific contract 202...': 5 results
+2026-07-04 05:23:45,577 [INFO]   Tavily 'Oshkosh AeroTech Asia Pacific airport 2026...': 5 results
+2026-07-04 05:23:46,301 [INFO]   Tavily 'Southeast Asia airport ground support equipme...': 5 results
+2026-07-04 05:23:46,975 [INFO]   Tavily 'Japan Korea airport GSE procurement 2026...': 5 results
+2026-07-04 05:23:47,687 [INFO]   Tavily 'Swissport Menzies dnata Asia Pacific contract...': 5 results
+2026-07-04 05:23:48,188 [INFO] Tavily total: 40 articles found
+2026-07-04 05:23:48,189 [INFO] Total after Tavily: 168 articles
+2026-07-04 05:23:48,189 [INFO] Competitor brief: skipping (runs Mondays only)
+2026-07-04 05:23:48,193 [INFO] Relevant articles after filtering: 0
+2026-07-04 05:23:48,193 [INFO] After prioritization: 0 Tavily, 0 competitor, 0 scraped
+2026-07-04 05:23:48,194 [INFO] Raw DeepSeek output saved to rapports_apac/debug_raw.txt
+2026-07-04 05:23:48,194 [WARNING] Empty DeepSeek response — nothing to parse.
+2026-07-04 05:23:48,194 [INFO] Report saved: /home/runner/work/agent_aviation_industry_APAC/agent_aviation_industry_APAC/rapports_apac/apac_veille_20260704_0523.html
+2026-07-04 05:23:48,194 [INFO] Done.

@@ -1,0 +1,59 @@
+name: APAC GSE Intelligence Agent
+
+on:
+  schedule:
+    # 06:00 UTC daily (~14:00 Shanghai time)
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-apac-agent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run APAC GSE agent
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: python asia_aviation_agent.py
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: apac-gse-report-${{ github.run_number }}
+          path: |
+            rapports_apac/
+            logs/
+          retention-days: 30
+          if-no-files-found: warn
+
+      - name: Commit updated seen-articles and reports back to repo
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_apac_articles.json rapports_apac/ logs/ 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Update APAC GSE intelligence report [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
